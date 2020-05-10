@@ -1,5 +1,8 @@
 remote_theme: christianezeani/panthera-jekyll
 menu:
+  - text: Home Page
+    link: /index
+    icon: ""
   - text: References
     link: /References
     icon: ""
@@ -7,6 +10,6 @@ menu:
   - text: Final Project
     link: /FinalProject
     icon: ""
-  - text: Home Page
-    link: /index
+  - text: Project Management
+    link: /ProjectManagement
     icon: ""
