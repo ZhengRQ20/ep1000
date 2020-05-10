@@ -7,3 +7,6 @@ menu:
   - text: Final Project
     link: /FinalProject
     icon: ""
+  - text: Home Page
+    link: /index
+    icon: ""
