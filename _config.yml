@@ -1,7 +1,7 @@
 remote_theme: christianezeani/panthera-jekyll
 menu:
   - text: References
-    link: /
+    link: /References
     icon: ""
 
   - text: Final Project
