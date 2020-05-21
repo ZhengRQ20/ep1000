@@ -1,4 +1,3 @@
-
 # Photoshop Tutorial:
 
 GIMP/Photoshop
@@ -13,6 +12,7 @@ GIMP/Photoshop
 - Document your work as a &quot;How-to&quot; for GIMP
 
 # Work Documentation:
+
 **Step 1:**
 
 Resize the image, via the 'image size' option under the image tab.
@@ -34,7 +34,6 @@ Insert the desired background image into the project.
 
 Ensure that the background image is below the original image.
 <img style="float: right;" src="https://cdn.discordapp.com/attachments/667962453283569666/713095078348062751/Capture3.PNG" alt="" width="250">
-
 
 **Step 4:**
 <img style="float: right;" src="https://cdn.discordapp.com/attachments/667962453283569666/713095062212575282/Capture2.PNG" title="" alt="" width="250">
