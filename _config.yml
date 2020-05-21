@@ -6,7 +6,6 @@ menu:
   - text: References
     link: /References
     icon: ""
-
   - text: Final Project
     link: /FinalProject
     icon: ""
@@ -18,4 +17,7 @@ menu:
     icon: ""
   - text: Fusion-Personalised Keychain
     link: /Fusion1
+    icon: ""
+  - text: Fusion-Chess Piece
+    link: /Fusion2
     icon: ""
