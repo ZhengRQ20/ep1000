@@ -18,7 +18,7 @@ GIMP/Photoshop
 Resize the image, via the 'image size' option under the image tab.
 
 Change the image to desired size, in this case to a height of 500px.
-
+<br>
 ![](https://media.discordapp.net/attachments/667962453283569666/713095018780295218/Capture1.PNG)
 
 **Step 2:**
@@ -26,13 +26,15 @@ Change the image to desired size, in this case to a height of 500px.
 Remove the background of the image with the magic wand tool.
 
 Adjust the tolerance levels till appropriate.  
+<br>
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/713095032688607245/seaside.jpg" width="200" height="200" />
 
 **Step 3:**
 
 Insert the desired background image into the project.
 
-Ensure that the background image is below the original image.  
+Ensure that the background image is below the original image. 
+<br>
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/713095078348062751/Capture3.PNG" />
 
 **Step 4:**  
