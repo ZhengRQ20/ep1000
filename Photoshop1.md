@@ -32,7 +32,7 @@ Adjust the tolerance levels till appropriate.
 Insert the desired background image into the project.
 
 Ensure that the background image is below the original image.
-<img src="https://cdn.discordapp.com/attachments/667962453283569666/713095078348062751/Capture3.PNG" title="" alt="" width="250">
+<img src="https://cdn.discordapp.com/attachments/667962453283569666/713095078348062751/Capture3.PNG" alt="" width="250">
 
 
 **Step 4:**
