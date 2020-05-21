@@ -26,7 +26,7 @@
 10. Save and export the key tag design.
 <br />  
 
-<img src="https://cdn.discordapp.com/attachments/667962453283569666/713121672437170266/cooltag.png" alt="drawing" width="250"/>
+<img src="https://cdn.discordapp.com/attachments/667962453283569666/713121672437170266/cooltag.png" alt="drawing" width="500"/>
  
  The final product managed to look pretty decent for my first attempt.  
 
