@@ -22,6 +22,7 @@ Using the extrude tool, I managed to create the final model and render it.
 <br>
 However, my first attempt was a huge failure as I had neglected to check my settings.
 <br>
+<br>
 <img src="https://cdn.discordapp.com/attachments/473050183131856896/713159278545862686/Capture69.PNG" alt="drawing" width="100"/>
 <br>
 Thus, I went to redo my sketch, but extra precision and care this time, and created my magnum opus!
