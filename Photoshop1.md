@@ -1,3 +1,7 @@
+<style>
+img {
+  float: left;
+}
 # Photoshop Tutorial:
 
 GIMP/Photoshop
