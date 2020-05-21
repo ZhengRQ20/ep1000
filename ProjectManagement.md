@@ -27,7 +27,10 @@ document it in your blog.
 <br>
 Here is a quick guide on how to do the last part:
 Familiarize yourself with git/Github Desktop (remember you can create new repositories on Github and remove them when you are finishted)
+<br>
 Write a paragraph of text, save your work on the remote repo (remember to put a meaningful comment)
+<br>
 Delete the paragraph and replace it with another paragraph, or make stupid changes to the paragraph. Push the changes to the repository.
 Examine the repository and extract/recover the lost data.
+<br>
 Remember to document as you go and clean up your documentation after you have done it.
