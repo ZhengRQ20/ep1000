@@ -20,7 +20,7 @@ Write-up the process of converting and implementing a version control
 system on your blog
 <br>
 40 min	
-< br>
+<br>
 Demonstrate how you would recover an error using git
 Use your  blog as the example, and show how you would recover a deleted paragraph.
 document it in your blog.
