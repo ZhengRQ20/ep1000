@@ -34,7 +34,7 @@ Ensure that snap to grid is on for easier assembly.
  The final product managed to look pretty decent for my first attempt.  
 **Project File**
 <br>
-[Probably the file](Keychain v1.f3d)
+<a href="Keychain v1.f3d"> Keychain File</a>
 
 
 
