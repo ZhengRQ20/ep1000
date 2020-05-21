@@ -31,4 +31,4 @@ I'll say I managed to make it look decently dignified for a knight.
 <br>
 **Project File**
 <br>
-<a href="3d/k.f3d"> Chess File</a>
+<a href="Knight v1.f3d"> Chess File</a>
