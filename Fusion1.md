@@ -5,7 +5,10 @@
 3. Start at the ORIGIN, draw the outline of the key tag using a rectangle.
 4. Draw 2 circles to round off the rectangle.
 <br />
-
+A tip would be to always have keybinds one hand, such as 'm' for move and 'e' for extrude
+<br>
+Ensure that snap to grid is on for easier assembly.
+<br>
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/713121182173495336/Capture.PNG" alt="drawing" width="250"/>
     
 5. Add the ring for the keyring on one of the ends.
@@ -29,7 +32,9 @@
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/713121672437170266/cooltag.png" alt="drawing" width="500"/>
  
  The final product managed to look pretty decent for my first attempt.  
-
+**Project File**
+<br>
+[Probably the file](https://discordapp.com/channels/544859498943348736/667962453283569666/713132382466736129)
 
 
 
