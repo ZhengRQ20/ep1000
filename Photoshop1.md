@@ -17,6 +17,7 @@ GIMP/Photoshop
 Resize the image, via the 'image size' option under the image tab.
 
 Change the image to desired size, in this case to a height of 500px.
+
 <img src="https://media.discordapp.net/attachments/667962453283569666/713095018780295218/Capture1.PNG" title="" alt="" width="250">
 
 **Step 2:**
@@ -32,6 +33,8 @@ Insert the desired background image into the project.
 
 Ensure that the background image is below the original image.
 <img src="https://discordapp.com/channels/544859498943348736/667962453283569666/713095078637207583" title="" alt="" width="250">
+
+
 **Step 4:**
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/713095062212575282/Capture2.PNG" title="" alt="" width="250">
 Profit.
