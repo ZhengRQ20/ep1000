@@ -1,6 +1,8 @@
 **Knight Chess Piece Modelling using Fusion:**
 <br>
-To begin, I used the canvas function to create my base. A big tip for this step would be to trace out the canvas image, so adjusting the canvas opacity would help.
+To begin, I used the canvas function to create my base. A big tip for this step would be to trace out the canvas image, 
+<br>
+so adjusting the canvas opacity would help.
 <br>
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/713161914687029308/Capture6.PNG" alt="drawing" width="250"/>
 <br>
@@ -26,8 +28,9 @@ Thus, I went to redo my sketch, but extra precision and care this time, and crea
 <br>
 <img src="https://cdn.discordapp.com/attachments/473050183131856896/713159330609758308/finale.PNG" alt="drawing" width="1000"/>
 
-
+<br>
 I'll say I managed to make it look decently dignified for a knight.
+<br>
 <br>
 **Project File**
 <br>
