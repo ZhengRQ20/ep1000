@@ -13,7 +13,9 @@ SOFTWARE REINSTALLATION
 15 Minutes: Read article about Prototyping:
 <br>
 <br>
+
 [Prototyping Article](https://medium.com/ucsddesignco/iterative-vs-parallel-prototyping-575d455da5b5)
+
 <br>
 15 Minutes: What tools do I need in my tool-kit?
 <br>
