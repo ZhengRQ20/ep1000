@@ -18,9 +18,9 @@ SOFTWARE REINSTALLATION
 <br>
 2. Safety aspects in using that tool
 <br>
+<br>
 30 Minutes: Software installation- Fusion 360, Text Editor
 <br>
-
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/715626745503416400/33.png"  />
 <br>
 - Autodesk Fusion 360
