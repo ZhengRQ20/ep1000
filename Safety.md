@@ -13,7 +13,6 @@ SOFTWARE REINSTALLATION
 
 15 Minutes: What tools do I need in my tool-kit?  
 <br>
-<br>
 1. How often it is used and its purpose
 <br>
 2. Safety aspects in using that tool
