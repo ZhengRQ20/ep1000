@@ -16,7 +16,7 @@ SOFTWARE REINSTALLATION
 <br>
 1. How often it is used and its purpose
 <br>
-2.Safety aspects in using that tool
+2. Safety aspects in using that tool
 ---
 
 30 Minutes: Software installation- Fusion 360, Text Editor
