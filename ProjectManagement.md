@@ -1,5 +1,7 @@
 **Time	Task**
 <br>
+<img src="https://cdn.discordapp.com/attachments/667962453283569666/715635595824857108/19.png" />
+<br>
 10 min	
 <br> 
 Install git/Github Desktop
