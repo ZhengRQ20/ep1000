@@ -23,8 +23,14 @@ SOFTWARE REINSTALLATION
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/715626745503416400/33.png"  />
 <br>
 - Autodesk Fusion 360
+<br>
 - Sublime Text
+<br>
 - Atom
+<br>
 - Brackets
+<br>
 - Notepad++
+<br>
 - Visual Studio Code
+<br>
