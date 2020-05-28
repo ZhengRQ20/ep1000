@@ -3,10 +3,7 @@
 | A short introduction about myself:                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://cdn.discordapp.com/attachments/667962453283569666/703510331300905020/WIN_20200423_18_09_30_Pro_2.jpg" title="" alt="" width="250"> | I am RuiQi, currently a second year student enrolled in DLA, or Diploma in Landscape Architecture.
-<br>
-I enjoy the finer things in life, such as snacking on various junk foods, staying up late at night to play video games and overall accomplishing nothing in life.
-<br>
-Currently residing in the Central region of Singapore Telegram ID: Zheng Rui Qi |
+I enjoy the finer things in life, such as snacking on various junk foods, staying up late at night to play video games and overall accomplishing nothing in life.Currently residing in the Central region of Singapore Telegram ID: Zheng Rui Qi |
 
 # About the website
 
