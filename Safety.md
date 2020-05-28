@@ -11,8 +11,7 @@ SOFTWARE REINSTALLATION
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/715626758229065778/22.png"  />
 <br>
 
-15 Minutes: What tools do I need in my tool-kit?  
-<br>
+15 Minutes: What tools do I need in my tool-kit?
 1. How often it is used and its purpose
 <br>
 2. Safety aspects in using that tool
