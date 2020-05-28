@@ -12,12 +12,10 @@ SOFTWARE REINSTALLATION
 <br>
 15 Minutes: What tools do I need in my tool-kit?  
 <br>
-
 1. How often it is used and its purpose
 <br>
 2.Safety aspects in using that tool
 <br>
-
 ---
 
 30 Minutes: Software installation- Fusion 360, Text Editor
