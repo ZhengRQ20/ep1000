@@ -8,7 +8,7 @@ SOFTWARE REINSTALLATION
 <br>
 45 Minutes: Go through the Safety slides on the eSP site, prepare for the Safety Assessment
 <br>
-<img src="https://cdn.discordapp.com/attachments/667962453283569666/715626745503416400/33.png"  />
+<img src="https://cdn.discordapp.com/attachments/667962453283569666/715626758229065778/22.png"  />
 <br>
 15 Minutes: What tools do I need in my tool-kit?  
 <br>
@@ -22,7 +22,9 @@ SOFTWARE REINSTALLATION
 
 30 Minutes: Software installation- Fusion 360, Text Editor
 <br>
-<img src="https://cdn.discordapp.com/attachments/667962453283569666/715626758229065778/22.png"  />
+
+<img src="https://cdn.discordapp.com/attachments/667962453283569666/715626745503416400/33.png"  />
+<br>
 - Autodesk Fusion 360
 - Sublime Text
 - Atom
