@@ -3,6 +3,9 @@ menu:
   - text: Home Page
     link: /index
     icon: ""
+  - text: Safety
+    link: /Safety
+    icon: ""
   - text: References
     link: /References
     icon: ""
