@@ -1,5 +1,10 @@
-Final Project goes here:
-
+---
+# __Final Project__
+### Useless Machine
+---
+Work in Progress Poster:
+![](https://cdn.discordapp.com/attachments/667962453283569666/746035095848353822/Untitled-1.png)
+---
 # Materials Needed:
 <br>
 Arduino board 
@@ -24,8 +29,6 @@ Acrylic Plastic
 <br>
 Wood glue and nails
 <br>
-Small hinge
+3D Printed Small hinge
 <br>
-LED Lights
-<br>
-Gears and teeth
+
