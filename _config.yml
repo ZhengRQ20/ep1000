@@ -6,11 +6,11 @@ menu:
   - text: Safety
     link: /Safety
     icon: ""
-  - text: 3D-Printing & Laser Cutting
-    link: /3D-Printing & Laser Cutting
-    icon: ""
   - text: Final Project
     link: /FinalProject
+    icon: ""
+  - text: 3D-Printing & Laser Cutting
+    link: /3D-Printing & Laser Cutting
     icon: ""
   - text: Project Management
     link: /ProjectManagement
