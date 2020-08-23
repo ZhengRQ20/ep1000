@@ -29,8 +29,14 @@ of the project such as adding LEDs and Sound makers.
 The main body of the useless machine was developed from my parametric  modular 'perfect fit' box with details such as dimensions altered to fit  my project. The body would be created using Laser Printing to form the shapes that made up the cuboid body.  
 <img src="https://media.discordapp.net/attachments/667962453283569666/747179354303234068/unknown.png?width=1190&height=671" height="300" />  
 The 3D printed arm and hinges are altered designs from thingiverse changed to fit into the dimensions of the body, with 3D printing allowing the exact dimensions I require for my design to be produced.  
+src="https://cdn.discordapp.com/attachments/667962453283569666/747180946373083207/unknown.png" height="300" />  
+This is the arm of the Useless machine, changed so that it can touch the switch from it's position just below the top casing.  
 
-# Materials Needed:
+### Step 3: Construction and Coding  
+---  
+The Construction Process made use of all the skills i've learnt in DFAB, and had me operating a wide range of machinery, and as for the coding process, the code used was modified from a existing template, with me adding more variation into the speed of the arm, to be more entertaining to users as they repeatedly flick the on/off switch of the machine.
+### Materials Needed:  
+---
 <br>
 Arduino board 
 <br>
@@ -46,14 +52,33 @@ Breadboard
 <br>
 1 x simple ON/OFF switch
 <br>
-Hook up wires
+8 x Hook up wires
 <br>
-Portable Charger
-<br>
-Acrylic Plastic
+1 x Portable Charger
 <br>
 Wood glue and nails
 <br>
-3D Printed Small hinge
+1 x 3D Printed Small hinge
 <br>
+1 x Sound Maker
+<br>
+1 x LED Lights
+<br>
+1 x Super Glue 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
