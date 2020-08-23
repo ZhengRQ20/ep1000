@@ -20,6 +20,7 @@ Many different concepts were drafted, but due to time and material constraints a
 #### Concept 1:  
 <img src="https://cdn.discordapp.com/attachments/667962453283569666/747174151101612052/unknown.png" height="300" />  
 This was deemed to be too complicated and time-consuming.  
+
 #### Concept 2 (Chosen):  
 <img src="https://media.discordapp.net/attachments/667962453283569666/747176364343296110/unknown.png" height="300" />  
 Thus this design was chosen with options to increase the fun value  
