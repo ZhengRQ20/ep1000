@@ -29,7 +29,7 @@ of the project such as adding LEDs and Sound makers.
 The main body of the useless machine was developed from my parametric  modular 'perfect fit' box with details such as dimensions altered to fit  my project. The body would be created using Laser Printing to form the shapes that made up the cuboid body.  
 <img src="https://media.discordapp.net/attachments/667962453283569666/747179354303234068/unknown.png?width=1190&height=671" height="300" />  
 The 3D printed arm and hinges are altered designs from thingiverse changed to fit into the dimensions of the body, with 3D printing allowing the exact dimensions I require for my design to be produced.  
-src="https://cdn.discordapp.com/attachments/667962453283569666/747180946373083207/unknown.png" height="300" />  
+<img src="https://cdn.discordapp.com/attachments/667962453283569666/747180946373083207/unknown.png" height="300" />  
 This is the arm of the Useless machine, changed so that it can touch the switch from it's position just below the top casing.  
 
 ### Step 3: Construction and Coding  
