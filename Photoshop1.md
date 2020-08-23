@@ -27,7 +27,7 @@ Remove the background of the image with the magic wand tool.
 
 Adjust the tolerance levels till appropriate.  
 <br>
-<img src="https://cdn.discordapp.com/attachments/667962453283569666/713095032688607245/seaside.jpg" width="200" height="200" />
+<img src="https://media.discordapp.net/attachments/667962453283569666/746035095848353822/Untitled-1.png?width=1194&height=671" width="200" height="200" />
 
 **Step 3:**
 
