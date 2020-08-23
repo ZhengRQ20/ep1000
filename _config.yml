@@ -9,9 +9,6 @@ menu:
   - text: 3D-Printing & Laser Cutting
     link: /3D-Printing & Laser Cutting
     icon: ""
-  - text: References
-    link: /References
-    icon: ""
   - text: Final Project
     link: /FinalProject
     icon: ""
@@ -26,4 +23,7 @@ menu:
     icon: ""
   - text: Fusion-Chess Piece
     link: /Fusion2
+    icon: ""
+  - text: References
+    link: /References
     icon: ""
