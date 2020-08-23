@@ -11,7 +11,7 @@ Arduino board
 <br>
 Breadboard
 <br>
-2 x Micro generic Servo
+1 x Micro generic Servo
 <br>
 2 x 100μF electrolytic capacitors
 <br>
@@ -23,7 +23,7 @@ Breadboard
 <br>
 Hook up wires
 <br>
-9V battery
+Portable Charger
 <br>
 Acrylic Plastic
 <br>
