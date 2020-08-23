@@ -6,6 +6,9 @@ menu:
   - text: Safety
     link: /Safety
     icon: ""
+  - text: 3D-Printing & Laser Cutting
+    link: /3D-Printing & Laser Cutting
+    icon: ""
   - text: References
     link: /References
     icon: ""
