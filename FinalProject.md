@@ -3,7 +3,7 @@
 ### Useless Machine
 ---
 Work in Progress Poster:
-<img src="https://cdn.discordapp.com/attachments/667962453283569666/746035095848353822/Untitled-1.png" width="200" height="200" />
+<img src="https://cdn.discordapp.com/attachments/667962453283569666/746035095848353822/Untitled-1.png" height="300" />
 ---
 # Materials Needed:
 <br>
