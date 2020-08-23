@@ -3,7 +3,7 @@
 ### Useless Machine
 ---
 Poster:
-<img src="https://cdn.discordapp.com/attachments/667962453283569666/746035095848353822/Untitled-1.png" height="300" />
+<img src="https://cdn.discordapp.com/attachments/667962453283569666/747217465758711858/Slide1.jpg" height="300" />
 ---  
 
 # Final Project Journey
