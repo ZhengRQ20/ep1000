@@ -12,9 +12,9 @@ ___
 
 ### Step 1: Concept Stage
 The concept for the project is to create a simple yet entertaining device that would incorporate all the elements of DFAB such as 3D printing and Laser Cutting yet was simple enough to recreate.  
-My idea for the final project is a useless machine, a device that  
-has no actual purpose other than entertainment of a user from observing  
-how it turns itself off if the switch it has is switched on.  
+My idea for the final project is a useless machine, a device that
+has no actual purpose other than entertainment of a user from observing 
+how it turns itself off if the switch it has is switched on.
 Many different concepts were drafted, but due to time and material constraints a more traditional design was selected for my project.  
 
 #### Concept 1:  
@@ -28,6 +28,7 @@ of the project such as adding LEDs and Sound makers.
 The main body of the useless machine was developed from my parametric  modular 'perfect fit' box with details such as dimensions altered to fit  my project. The body would be created using Laser Printing to form the shapes that made up the cuboid body.  
 <img src="https://media.discordapp.net/attachments/667962453283569666/747179354303234068/unknown.png?width=1190&height=671" height="300" />  
 The 3D printed arm and hinges are altered designs from thingiverse changed to fit into the dimensions of the body, with 3D printing allowing the exact dimensions I require for my design to be produced.  
+
 # Materials Needed:
 <br>
 Arduino board 
